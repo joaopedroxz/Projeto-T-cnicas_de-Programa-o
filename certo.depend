@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1722469000 source:c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+

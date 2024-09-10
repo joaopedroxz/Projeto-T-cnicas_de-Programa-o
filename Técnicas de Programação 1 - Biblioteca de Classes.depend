@@ -1,0 +1,725 @@
+# depslib dependency file v1.0
+1720406563 source:c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1720406511 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1720406059 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1720406169 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1720409365 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1720406511 source:c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1720408757 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1720407428 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1720397723 source:c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+	"entidades.h"
+
+1720407387 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1720404835 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722098842 source:c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722105536 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722286841 source:c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"Containers.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098842 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722289732 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722296126 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722098844 source:c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722105538 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722387216 source:c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722386700 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722375876 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"INTER_IMPROVISADA.h"
+	"Containers.cpp"
+
+1722375876 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\inter_improvisada.h
+	"dominios.h"
+	"entidades.h"
+
+1722386473 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722386700 c:\users\rober\onedrive\Área de trabalho\trabalho tp1\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722098844 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722105538 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722413256 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722098844 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722408379 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722408379 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"INTER_IMPROVISADA.h"
+	"Containers.cpp"
+
+1722408379 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\inter_improvisada.h
+	"dominios.h"
+	"entidades.h"
+
+1722408379 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722408379 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722469392 source:c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722469190 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"INTER_IMPROVISADA.h"
+	"Containers.cpp"
+
+1722469000 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\inter_improvisada.h
+	"dominios.h"
+	"entidades.h"
+
+1722469392 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722469392 c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722469000 source:c:\users\rober\downloads\técnicas de programação 1 - biblioteca de classes5\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722529301 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722469002 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722523482 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722520767 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"INTER_IMPROVISADA.h"
+	"Containers.cpp"
+
+1722523397 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\inter_improvisada.h
+	"dominios.h"
+	"entidades.h"
+
+1722469394 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722469394 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722469002 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722817561 source:c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	"controladora_apresentacao.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722816370 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722814041 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722813073 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722743444 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722651373 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722816386 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722651373 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722651373 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722817707 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722817670 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"interfaces.h"
+	"Containers.cpp"
+
+1722651372 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\inter_improvisada.h
+	"dominios.h"
+	"entidades.h"
+
+1722824760 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722817326 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722743444 source:c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722718430 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\interfaces.h
+	<string>
+	"dominios.h"
+	"entidades.h"
+
+1722828224 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_apresentacao.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<map>
+	"controladora_apresentacao.h"
+
+1722820584 c:\users\danie\onedrive\Área de trabalho\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_apresentacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladora_servico.h"
+
+1722869563 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.cpp"
+	"testes_dominios.cpp"
+	"testes_entidades.cpp"
+	"controladora_servico.cpp"
+	"controladora_apresentacao.cpp"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722816372 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\dominios.h
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1722814042 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\entidades.cpp
+	"entidades.h"
+	"dominios.h"
+
+1722813074 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\entidades.h
+	"dominios.h"
+
+1722743446 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722651374 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.h
+	<string>
+	<stdexcept>
+	"dominios.h"
+
+1722816388 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\dominios.cpp
+	"dominios.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdexcept>
+	<functional>
+	<algorithm>
+
+1722651374 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_entidades.cpp
+	"testes_entidades.h"
+	"dominios.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1722651374 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_entidades.h
+	<string>
+	<stdexcept>
+	"entidades.h"
+
+1722817708 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_servico.cpp
+	"controladora_servico.h"
+
+1722870154 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_servico.h
+	"interfaces.h"
+	"Containers.cpp"
+
+1722718432 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\interfaces.h
+	<string>
+	"dominios.h"
+	"entidades.h"
+
+1722824762 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\containers.cpp
+	"Containers.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdexcept>
+	<string>
+
+1722869350 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1722828226 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_apresentacao.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<map>
+	"controladora_apresentacao.h"
+
+1722820586 c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\controladora_apresentacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladora_servico.h"
+
+1722743446 source:c:\users\pichau\desktop\técnicas de programação 1 - biblioteca de classes - feito\técnicas de programação 1 - biblioteca de classes\testes_dominios.cpp
+	"testes_dominios.h"
+	"dominios.cpp"
+	<iostream>
+	<string>
+	<stdexcept>
+
