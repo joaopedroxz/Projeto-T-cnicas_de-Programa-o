@@ -7,9 +7,9 @@ Este projeto tem como objetivo o desenvolvimento de um sistema para facilitar o 
 ## Autores
 
 - Yuri Arruda 
-- Daniel Felipe
+- Daniel Filipe
 - Roberth Jesus
-- Jonathan Barbosa
+- Jonata Barbosa
 - João Pedro
 
 # 
